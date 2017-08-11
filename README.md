@@ -1,2 +1,2 @@
 # Assessment1
-This is the intro for github
+This repo consists the complete fully functional code for Assessment 1
