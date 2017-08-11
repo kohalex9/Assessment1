@@ -1,2 +1,2 @@
-# Assessment1
-This repo consists the complete fully functional code for Assessment 1
+# Assessment 1
+This repository consists the complete project file for Assessment 1.
