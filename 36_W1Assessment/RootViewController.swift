@@ -28,7 +28,7 @@ class RootViewController: UIViewController {
     }
     
     override func viewWillAppear(_ animated: Bool) {
-        <#code#>
+        self.navigationItem.rightBarButtonItem = nil
     }
     
     @IBAction func addBtnTapped(_ sender: Any) {
